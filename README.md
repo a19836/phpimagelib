@@ -1,7 +1,7 @@
 # PHP Image Lib
 
 > Original Repos:   
-> - PHP Image Lib: https://github.com/a19836/phpimagelib/   
+> - PHP Image Lib: https://github.com/a19836/php-image-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
